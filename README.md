@@ -6,7 +6,7 @@ How to use:
 
 Download the git package and update pacman at the same time:
 
-	pacman -Sy git
+	pacman -S git
 
 Clone this repository:
 
